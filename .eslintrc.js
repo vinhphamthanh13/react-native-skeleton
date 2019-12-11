@@ -1,6 +1,6 @@
 module.exports = {
   root: true,
-  extends: ['@react-native-community', 'airbnb'],
+  extends: ['@react-native-community'], // airbnb
 	parser: 'babel-eslint',
 	env: {
   	jest: true,
